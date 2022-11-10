@@ -1,0 +1,90 @@
+.btn.link:hover {
+  color: #863ce7;
+}
+.hoverpurplez:hover {
+  color: #863ce7 !important;
+}
+.btn.red {
+  background-color: #863ce7 !important;
+  color: white !important;
+  border: 1px solid white !important;
+}
+.btn.red:hover {
+  background-color: white !important;
+  color: #863ce7 !important;
+}
+.videos__slider.swiper-container.side-arrows .swiper-button-next:hover,
+.videos__slider.swiper-container.side-arrows .swiper-button-prev:hover {
+  background-color: #863ce7;
+  color: #fff;
+}
+.videos__linkbar-link {
+  background-color: #863ce7;
+}
+.header .header__nav-primary--main > li > a.active,
+.header .header__nav-primary--main > li > a:hover {
+  color: #863ce7;
+}
+.matches .tabs__caption li.active span {
+  position: relative;
+  color: #863ce7;
+}
+.matches .tabs__caption li.active::after {
+  border-top-color: #863ce7;
+}
+.matches .tabs__caption li.active span::after {
+  background-color: #863ce7;
+}
+.footer .footer__pre::after,
+.footer .footer__pre::before {
+  background-color: #863ce7;
+}
+.hsld__next-thumb::after {
+  background-color: #863ce7;
+}
+@media screen and (max-width: 1021px) {
+  .memb__team-det .teammate-links-nav {
+    width: 100% !important;
+  }
+  .header__nav-primary nav {
+    border-left: 7px solid #863ce7;
+  }
+  .hide_logo_header {
+    display: none;
+  }
+  .show_logo_header {
+    display: inline !important;
+  }
+}
+.show_logo_header {
+  display: none;
+}
+.hsld__slider.swiper-container .swiper-button-next,
+.hsld__slider.swiper-container .swiper-button-prev:hover {
+  background-color: #863ce7;
+  color: white;
+}
+.hsld__slider.swiper-container .swiper-button-next,
+.hsld__slider.swiper-container .swiper-button-prev {
+  background-color: white;
+  color: #863ce7;
+}
+.hsld__slider.swiper-container .swiper-button-next:hover,
+.hsld__slider.swiper-container .swiper-button-prev:hover {
+  background-color: #863ce7;
+  color: white;
+}
+.footer .footer__bottom ul li a:hover {
+  color: #863ce7;
+}
+.memb__team-det .teammate-links-nav {
+    background-color: #863ce7;
+    width: 93%;
+}
+.teams__title span {
+    color: #863ce7;
+  }
+  .blog-post__img a::before {
+
+    background-color: rgba(134,60,231,0.7);
+  }
