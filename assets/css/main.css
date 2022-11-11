@@ -55,6 +55,7 @@
   .show_logo_header {
     display: inline !important;
   }
+  
 }
 .show_logo_header {
   display: none;
@@ -87,4 +88,12 @@
   .blog-post__img a::before {
 
     background-color: rgba(134,60,231,0.7);
+  }
+  .forcelogo{
+    display:block !important;
+  }
+  @media screen and (max-width: 1021px) {
+    .forcelogo{
+        display:none !important;
+      }
   }
