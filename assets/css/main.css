@@ -116,3 +116,12 @@
   .comm__link:hover .comm__count {
     color: #863ce7;
   }
+  .blog-posts{
+    padding: 50px 0;
+  }
+  .pagination ul {
+    padding: 70px 0;
+  }
+  .pagination a:hover {
+    color: #863ce7;
+  }
