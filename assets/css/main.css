@@ -125,3 +125,7 @@
   .pagination a:hover {
     color: #863ce7;
   }
+  .contact .contact__info ul li a:hover {
+    color: #863ce7;
+  }
+  
